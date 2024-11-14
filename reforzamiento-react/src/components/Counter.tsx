@@ -4,7 +4,6 @@ import { useState } from 'react';
 
 export const Counter = () => {
 
-    //UseState
   const [ count, setCount ] = useState<number>(10);
 
 
